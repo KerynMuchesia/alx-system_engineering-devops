@@ -1,4 +1,2 @@
 #!/bin/bash
 chmod 700 hello
-chmod 770 hello
-chmod 777 hello
